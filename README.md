@@ -1,5 +1,5 @@
-### NAME : Nirmal N
-### REG NO : 212223240107
+### NAME : Kancharla Narmadha
+### REG NO : 212222110016
 
 # EXPERIMENT 4 Monitoring light intensity using LDR and uploading the data in the cloud using an IoT controller
 

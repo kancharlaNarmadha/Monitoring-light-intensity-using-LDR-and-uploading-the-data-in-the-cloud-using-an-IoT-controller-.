@@ -1,5 +1,5 @@
-### NAME : Kancharla Narmadha
-### REG NO : 212222110016
+### NAME : Nirmal N
+### REG NO : 212223240107
 
 # EXPERIMENT 4 Monitoring light intensity using LDR and uploading the data in the cloud using an IoT controller
 
@@ -261,11 +261,6 @@ ldr_value:1dr1
 # OUTPUT:
 ![IMG-20240516-WA0006](https://github.com/SowmyaVisvanathan/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/119475775/2c42f8c3-49ea-416f-8eda-d9c477b5c354)
 
-# RESULT:
-
-Thus the light intensity value is uploaded in the Things mate using Arduino controller.
-
-# OUTPUT:
 
 # RESULT:
 
